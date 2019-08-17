@@ -4,7 +4,11 @@ import "./Card2.css";
 
 class Card2 extends Component {
   render() {
-    return <div />;
+    return (
+      <div>
+        <img scr={JapaneseMobile} alt="" className="jpmobile" />
+      </div>
+    );
   }
 }
 
