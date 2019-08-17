@@ -1,9 +1,20 @@
 .jpmobile {
   position: relative;
-  left: 30px;
-  top: 0px;
-  max-width: 209px;
-  max-height: 197px;
+  left: 65px;
+  top: 130px;
+  max-width: 400px;
+  max-height: 250px;
   padding: 0px;
   margin: 0px;
+}
+
+.plusIcon2 {
+  position: relative;
+  left: -135px;
+  top: 70px;
+  color: #dadada;
+}
+
+.plusIcon2:hover {
+  color: black;
 }

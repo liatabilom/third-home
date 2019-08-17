@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text&display=swap"rel="stylesheet");
+
+.title {
+  font-family: "Crimson Text", serif;
+  color: #fec9a9;
+  font-size: 38px;
+  line-height: 58px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: -0.016em;
+}

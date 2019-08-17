@@ -3,7 +3,7 @@ import "./Card1.css";
 
 class Card1 extends Component {
   render() {
-    return <div />;
+    return <div className="title">Din Tai Fung</div>;
   }
 }
 

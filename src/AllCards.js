@@ -7,15 +7,15 @@ import "./AllCards.css";
 class AllCards extends Component {
   render() {
     return (
-      <div className="container mt-2 mainCards changeBackground">
+      <div className="container mt-2 mainCards">
         <div className="row">
-          <div className="card-body p-0 col-lg-3 border border-dark ">
+          <div className="card-body p-0 col-lg-3 border border-dark cardBg">
             <Card1 />
           </div>
-          <div className="card-body p-0 col-lg-3 border border-dark">
+          <div className="card-body p-0 col-lg-3 border border-dark cardBg">
             <Card2 />
           </div>
-          <div className="card-body pl-0 col-lg-3 border border-dark">
+          <div className="card-body p-0 col-lg-3 border border-dark cardBg ">
             <Card3 />
           </div>
         </div>
