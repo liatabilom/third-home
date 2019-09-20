@@ -3,7 +3,7 @@
 .restaurantTitle {
 	display: flex;
 	position: relative;
-	top: 455px;
+	top: 420px;
 	font-family: 'Crimson Text', serif;
 	color: #fec9a9;
 	font-size: 38px;
@@ -11,4 +11,6 @@
 	font-style: normal;
 	line-height: 58px;
 	letter-spacing: -0.016em;
+	padding: 0 0 10 0px;
+	margin: 10px;
 }

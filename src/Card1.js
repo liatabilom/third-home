@@ -4,8 +4,8 @@ import './Card1.css';
 class Card1 extends Component {
 	render() {
 		return (
-			<div className="restaurantTitle" style={{ height: 480 }}>
-				<h3>Din Tai Fung</h3>
+			<div style={{ height: 480 }}>
+				<h3 className="restaurantTitle">Din Tai Fung</h3>
 			</div>
 		);
 	}

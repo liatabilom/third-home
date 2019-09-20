@@ -4,9 +4,9 @@
 
 .jpmobile {
 	display: flex;
-	position: ;
-	left: 65px;
-	top: 130px;
+	position: relative;
+	left: 95px;
+	top: 90px;
 	padding: 0px;
 	margin: 0px;
 }
@@ -14,7 +14,7 @@
 .plusIcon2 {
 	position: relative;
 	top: 70px;
-	left: 100px;
+	right: 230px;
 	color: #dadada;
 }
 

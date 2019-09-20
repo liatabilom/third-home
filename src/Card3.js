@@ -9,11 +9,12 @@ class Card3 extends Component {
 				<div
 					className="parent"
 					style={{
-						height: '500px',
-						width: '285px',
+						height: '490px',
+						width: '378px',
 						position: 'relative',
 						overflow: 'auto',
 						padding: '0',
+						margin: '0',
 					}}
 				>
 					<div style={{ height: '200px', width: '60px', padding: '0' }}>
