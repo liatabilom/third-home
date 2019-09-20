@@ -1,20 +1,23 @@
+.jpmobileContent {
+	display: flex;
+}
+
 .jpmobile {
-  position: relative;
-  left: 65px;
-  top: 130px;
-  max-width: 400px;
-  max-height: 250px;
-  padding: 0px;
-  margin: 0px;
+	display: flex;
+	position: ;
+	left: 65px;
+	top: 130px;
+	padding: 0px;
+	margin: 0px;
 }
 
 .plusIcon2 {
-  position: relative;
-  left: -135px;
-  top: 70px;
-  color: #dadada;
+	position: relative;
+	top: 70px;
+	left: 100px;
+	color: #dadada;
 }
 
 .plusIcon2:hover {
-  color: black;
+	color: black;
 }

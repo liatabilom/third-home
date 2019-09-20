@@ -1,15 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap"rel="stylesheet");
-
 .mainCards {
-  position: relative;
-  left: 120px;
-  top: 8px;
-  max-width: 1001px;
-  max-height: 605px;
-  padding: 0px;
-  margin: 0px;
-}
-
-.cardBg {
-  background: #da3e19;
+	padding: 10px;
+	margin: 0 0 0 0px;
 }

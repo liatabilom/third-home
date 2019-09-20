@@ -1,15 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Crimson+Text&display=swap"rel="stylesheet");
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text&display=swap'rel='stylesheet');
 
-.title {
-  position: relative;
-  top: 445px;
-  font-family: "Crimson Text", serif;
-  color: #fec9a9;
-  font-size: 38px;
-  font-weight: 400;
-  font-style: normal;
-  line-height: 58px;
-  display: flex;
-  align-items: flex-end;
-  letter-spacing: -0.016em;
+.restaurantTitle {
+	display: flex;
+	position: relative;
+	top: 455px;
+	font-family: 'Crimson Text', serif;
+	color: #fec9a9;
+	font-size: 38px;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 58px;
+	letter-spacing: -0.016em;
 }
