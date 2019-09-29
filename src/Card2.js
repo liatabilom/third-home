@@ -15,7 +15,9 @@ class Card2 extends Component {
 					/>
 				</h2>
 				<span>
-					<FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon2" />
+					<a href="">
+						<FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon2" />
+					</a>
 				</span>
 			</div>
 		);

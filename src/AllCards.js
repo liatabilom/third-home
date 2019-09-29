@@ -14,13 +14,13 @@ class AllCards extends Component {
 						background: '#da3e19',
 					}}
 				>
-					<div className="card-body p-0 col-md-4 border border-dark cardBg">
+					<div className="card-body p-0 col-md-4 border border-dark">
 						<Card1 />
 					</div>
-					<div className="card-body p-0 col-md-4 border border-dark cardBg">
+					<div className="card-body p-0 col-md-4 border border-dark">
 						<Card2 />
 					</div>
-					<div className="card-body p-0 col-md-4 border border-dark cardBg ">
+					<div className="card-body p-0 col-md-4 border border-dark ">
 						<Card3 />
 					</div>
 				</div>
