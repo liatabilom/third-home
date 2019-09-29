@@ -12,9 +12,9 @@
 }
 
 .plusIcon2 {
-	position: relative;
+	position: absolute;
 	top: 70px;
-	right: 230px;
+	left: -40px;
 	color: #dadada;
 }
 

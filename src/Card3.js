@@ -9,15 +9,15 @@ class Card3 extends Component {
 				<div
 					className="parent"
 					style={{
-						height: '490px',
-						width: '378px',
+						height: '480px',
+						width: '319px',
 						position: 'relative',
 						overflow: 'auto',
 						padding: '0',
 						margin: '0',
 					}}
 				>
-					<div style={{ height: '200px', width: '60px', padding: '0' }}>
+					<div style={{ height: '480px', width: '319px', padding: '0' }}>
 						<Draggable
 							bounds={(0, 10, 0, 10)}
 							handle=".handle"

@@ -2,8 +2,8 @@
 
 .restaurantTitle {
 	display: flex;
-	position: relative;
-	top: 420px;
+	position: absolute;
+	top: 415px;
 	font-family: 'Crimson Text', serif;
 	color: #fec9a9;
 	font-size: 38px;

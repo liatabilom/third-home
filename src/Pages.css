@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap'rel='stylesheet');
 
-ul {
-	padding: 0px;
-	margin: 0px;
-}
-
 #bottom-pages {
 	display: flex;
+	position: absolute;
+	left: 120px;
 }
 
 .btn-outline-dark {

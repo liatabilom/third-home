@@ -15,7 +15,6 @@ class ThirdPage extends Component {
 						Correia Gonc,alves
 					</header>
 				</div>
-				<br />
 				<Search />
 				<div className="row">
 					<div className="side">
