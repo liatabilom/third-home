@@ -1,4 +1,7 @@
 .mainCards {
 	padding: 10px;
-	margin: 0 0 0 20px;
+}
+
+.backgroundChinese {
+	background-color: #da3e19;
 }

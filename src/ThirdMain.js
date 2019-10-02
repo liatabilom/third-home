@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import Search from './Search';
 import AllCards from './AllCards';
 import Pages from './Pages';
-import './ThirdPage.css';
+import './ThirdMain.css';
 
-class ThirdPage extends Component {
+class ThirdMain extends Component {
 	render() {
 		return (
 			<div>
@@ -33,4 +33,4 @@ class ThirdPage extends Component {
 	}
 }
 
-export default ThirdPage;
+export default ThirdMain;

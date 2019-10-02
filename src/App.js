@@ -1,5 +1,5 @@
 import React from 'react';
-import ThirdPage from './ThirdPage';
+import ThirdMain from './ThirdMain';
 import './App.css';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
 				backgroundColor: '#f5f4ef',
 			}}
 		>
-			<ThirdPage />
+			<ThirdMain />
 		</div>
 	);
 }

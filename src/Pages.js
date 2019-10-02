@@ -17,7 +17,7 @@ class Pages extends Component {
 								Page 2
 							</a>
 						</li>
-						<li className="btn btn-outline-dark d-table-cell rounded-0 ">
+						<li className="btn btn-outline-dark rounded-0 active">
 							<a className="page-button" href="https://home3.correiagoncalves.com/">
 								Page 3
 							</a>

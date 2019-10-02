@@ -3,11 +3,10 @@
 #bottom-pages {
 	display: flex;
 	position: absolute;
-	left: 120px;
+	left: 150px;
 }
 
 .btn-outline-dark {
-	color: black;
 	border-color: black;
 }
 

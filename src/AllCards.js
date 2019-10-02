@@ -8,12 +8,7 @@ class AllCards extends Component {
 	render() {
 		return (
 			<div className="container mt-2 mainCards">
-				<div
-					className="row"
-					style={{
-						background: '#da3e19',
-					}}
-				>
+				<div className="row backgroundChinese">
 					<div className="card-body p-0 col-md-4 border border-dark">
 						<Card1 />
 					</div>
