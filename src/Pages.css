@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap'rel='stylesheet');
 
-#bottom-pages {
+.bottom-pages {
 	display: flex;
-	position: absolute;
+	position: relative;
+	top: -10px;
 	left: 150px;
+	width: 250px;
 }
 
 .btn-outline-dark {
@@ -19,4 +21,10 @@
 .page-button:hover {
 	text-decoration: none;
 	color: white;
+}
+
+@media screen and (max-width: 480px) {
+	.bottom-pages {
+		left: 20%;
+	}
 }

@@ -7,23 +7,22 @@ class Card3 extends Component {
 		return (
 			<div style={{ height: 480 }}>
 				<div
-					className="parent"
+					className="backgroundChinese"
 					style={{
 						height: '480px',
 						width: '378px',
 						position: 'relative',
-						overflow: 'auto',
+						overflow: 'scroll',
 						padding: '0',
 						margin: '0',
 					}}
 				>
-					<div style={{ height: '480px', width: '378px', padding: '0s' }}>
+					<div style={{ height: '480px', width: '250px', padding: '0', margin: '0' }}>
 						<Draggable
 							bounds={(0, 10, 0, 10)}
 							handle=".handle"
 							grid={(25, 15)}
 							allowAnyClick={true}
-							cancel={'.body'}
 							disabled={true}
 							dragHandlers={false}
 							overflow="auto"
@@ -32,6 +31,10 @@ class Card3 extends Component {
 								src="https://i.imgur.com/fxW6FGg.jpg"
 								alt="Japanese Background"
 								className="backgroundImg"
+								style={{
+									width: 800,
+									height: 605,
+								}}
 							/>
 						</Draggable>
 					</div>

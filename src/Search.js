@@ -14,7 +14,7 @@ class Search extends Component {
 	render() {
 		return (
 			<div className="searchBar">
-				<h1>
+				<h1 style={{ margin: 0 }}>
 					<div className="clearfix">
 						<form onSubmit={this.preventReload}>
 							<input className="emailInput float-left" type="text" placeholder="Email" />
