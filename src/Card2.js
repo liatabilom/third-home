@@ -16,7 +16,7 @@ class Card2 extends Component {
 					/>
 				</h2>
 				<span>
-					<a href="">
+					<a href="https://home3-inner.correiagoncalves.com/">
 						<FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon2" />
 					</a>
 				</span>
