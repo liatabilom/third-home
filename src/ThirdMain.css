@@ -15,17 +15,22 @@
 .row {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 0px;
 }
 
 .side {
 	flex: 50%;
 	padding: 0px;
-	margin: 20px;
 }
 
 .footer {
 	margin: 0px;
 	padding: 0px;
 	height: 40px;
+}
+
+@media screen and (max-width: 480px) {
+	.side {
+		width: 90%;
+		padding: 5%;
+	}
 }
