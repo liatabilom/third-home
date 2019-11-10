@@ -7,7 +7,7 @@ class Card3 extends Component {
 		return (
 			<div style={{ height: 480 }}>
 				<div
-					className="backgroundChinese"
+					className="background"
 					style={{
 						height: '480px',
 						width: '378px',
@@ -17,7 +17,7 @@ class Card3 extends Component {
 						margin: '0',
 					}}
 				>
-					<div style={{ height: '480px', width: '250px', padding: '0', margin: '0' }}>
+					<div style={{ height: '480px', padding: '0', margin: '0' }}>
 						<Draggable
 							bounds={(0, 10, 0, 10)}
 							handle=".handle"
@@ -32,8 +32,8 @@ class Card3 extends Component {
 								alt="Japanese Background"
 								className="backgroundImg"
 								style={{
-									width: 800,
-									height: 605,
+									width: 500,
+									height: 600,
 								}}
 							/>
 						</Draggable>
