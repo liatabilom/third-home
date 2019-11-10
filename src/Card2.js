@@ -8,7 +8,7 @@ class Card2 extends Component {
 		return (
 			<div className="jpmobileContent" style={{ height: 480, width: 378 }}>
 				<img
-					style={{ height: 300, width: 200 }}
+					style={{ height: 320, width: 200 }}
 					className="jpmobile"
 					src="https://i.imgur.com/gACoce3.png"
 					alt="Japanese Mobile"
