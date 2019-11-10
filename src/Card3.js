@@ -7,7 +7,7 @@ class Card3 extends Component {
 		return (
 			<div style={{ height: 480 }}>
 				<div
-					className="background"
+					className="chineseMenu"
 					style={{
 						height: '480px',
 						width: '378px',
