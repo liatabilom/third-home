@@ -10,7 +10,6 @@ class Card3 extends Component {
 					className="chineseMenu"
 					style={{
 						height: '480px',
-						width: '378px',
 						position: 'relative',
 						overflow: 'scroll',
 						padding: '0',

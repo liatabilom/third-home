@@ -6,7 +6,7 @@ import './Card2.css';
 class Card2 extends Component {
 	render() {
 		return (
-			<div className="jpmobileContent" style={{ height: 480, width: 378 }}>
+			<div className="jpmobileContent" style={{ height: 480 }}>
 				<img
 					style={{ height: 320, width: 200 }}
 					className="jpmobile"
